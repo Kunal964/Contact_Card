@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactCard</string>
+    <string name="Kunal">Kunal Chaudhary</string>
+    <string name="android">Android Developer Extraordinaire</string>
+    <string name="phone_no">+9198111****0</string>
+    <string name="email_id">Chaudharykunal964@gmail.com</string>
+</resources>
